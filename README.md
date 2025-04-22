@@ -5,7 +5,7 @@ Customer churn is a critical metric for businesses, especially in telecom, subsc
 ## Project Structure
 prediction-customer-churn-machine-learning-project/ │ ├── dataset/ │ └── customer_churn_data.csv # Cleaned dataset │ ├── notebook/ │ └── churn_prediction.ipynb # Jupyter Notebook with full EDA + ML │ ├── models/ │ └── README.md
 
-## Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy
 - Seaborn, Matplotlib (Data Visualization)
@@ -43,18 +43,18 @@ prediction-customer-churn-machine-learning-project/ │ ├── dataset/ │ �
   - Monthly charges have a significant impact on churn probability
 
 
-## How to Run
+##   How to Run
 
 1. Clone the repository
    ```bash
-git clone https://github.com/HarithaNair8/prediction-customer-churn-machine-learning-project.gi
+git clone https://github.com/HarithaNair8/prediction-customer-churn-machine-learning-project.git
  cd prediction-customer-churn-machine-learning-project
 • Install dependencies
 pip install -r requirements.txt
 • Launch the notebook
 jupyter notebook notebook/churn_prediction.ipynb
 
-Sample Visualizations
+# Sample Visualizations
 images/confusion_matrix_rf.png
 images/lead_time_performance.png
 images/precision_recall_rf.png
@@ -63,7 +63,7 @@ images/feature_importance.png
 
 
 
-Author
+# Author
 Created by Haritha Nair
-![image](https://github.com/user-attachments/assets/1514112d-f441-46e3-88a2-aa2d24a0e1c6)
 
+![image](https://github.com/user-attachments/assets/67cabd49-0958-4d26-87ae-a7ea93cf6919)

@@ -46,9 +46,9 @@ prediction-customer-churn-machine-learning-project/ │ ├── dataset/ │ �
 ##   How to Run
 
 1. Clone the repository
-   ```bash
+
 git clone https://github.com/HarithaNair8/prediction-customer-churn-machine-learning-project.git
- cd prediction-customer-churn-machine-learning-project
+cd prediction-customer-churn-machine-learning-project
 • Install dependencies
 pip install -r requirements.txt
 • Launch the notebook

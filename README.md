@@ -34,13 +34,13 @@ prediction-customer-churn-machine-learning-project/ │ ├── dataset/ │ �
    - Confusion Matrix
    - ROC-AUC Curve
 
-## Results
+## 📈 Results
 
-- Best Accuracy Achieved: ~XX% (fill in based on your model)
-- Top Model Used: Random Forest / Logistic Regression / etc.
-- Insights Gained:
-  - Tenure and contract type are strong churn predictors
-  - Monthly charges have a significant impact on churn probability
+- Best performing model: Random Forest
+- Accuracy achieved: 86%
+- Insights:
+  - Tenure and Monthly Charges were major drivers of churn
+  - Customers with longer contracts were less likely to churn
 
 
 ##   How to Run
@@ -66,4 +66,4 @@ images/feature_importance.png
 # Author
 Created by Haritha Nair
 
-![image](https://github.com/user-attachments/assets/67cabd49-0958-4d26-87ae-a7ea93cf6919)
+
